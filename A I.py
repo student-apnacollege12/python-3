@@ -1,1 +1,1 @@
-print("allah hu Akbar")
+print("Allah hu Akbar")
